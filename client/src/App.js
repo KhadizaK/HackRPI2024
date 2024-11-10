@@ -19,6 +19,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Kaboom Critters</h1>
       {!showChat ? (
         <div className="joinChatContainer">
           <h3>Join A Chat</h3>
